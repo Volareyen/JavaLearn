@@ -49,8 +49,18 @@ This repository contains **The Great Plan**—a comprehensive Java Object-Orient
 - Object class heritage, Composition vs Inheritance wisdom
 - Enumerations and Generics for type-safe elegance
 
-### **Stage 5-6: The Ascension** 🚀
-*Coming Soon: Collections Framework, Exception Handling, SOLID Principles, and Design Patterns*
+### **Stage 5: The Grand Library** 📚
+*Master the tools every Java professional relies on daily*
+- **Collections Framework**: List (ArrayList/LinkedList), Set (HashSet/TreeSet), Map (HashMap/TreeMap)
+- **Exception Handling**: Custom exception hierarchies, try-with-resources, checked vs unchecked, graceful recovery
+- **3 Practical Systems**: Grade Book Manager, Course Enrollment System, Inventory Tracker
+- **3 Challenges**: Playlist Manager, Social Network Analyzer, Text Analysis Engine
+
+### **Stage 6: Ascension** 🏛️
+*Think and design like a professional software architect*
+- **SOLID Principles**: All five — SRP, OCP, LSP, ISP, DIP — with violations and corrections
+- **Design Patterns**: Singleton, Factory Method, Decorator, Observer
+- **The Grand Trial**: A complete Library Management System integrating ALL curriculum concepts
 
 ---
 
